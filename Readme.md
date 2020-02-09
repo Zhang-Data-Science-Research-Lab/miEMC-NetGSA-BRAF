@@ -4,8 +4,10 @@
 The code files in this repository generate the results for the paper
 "miRNA-Gene Activity Interaction Networks (miGAIN): Integrated joint
 models of miRNA-gene targeting and disturbance in signaling pathways"
-by Henry Linder and Yuping Zhang. This repository is hosted at the
-following locations:
+by [Henry Linder](http://mhlinder.com) and [Yuping
+Zhang](https://sites.google.com/site/statyuping/).
+
+This repository is hosted at the following locations:
 
 * [github.com/Zhang-Data-Science-Research-Lab/miEMC-NetGSA-BRAF](https://github.com/Zhang-Data-Science-Research-Lab/miEMC-NetGSA-BRAF)
 * [github.com/mhlinder/miEMC-NetGSA-BRAF](https://github.com/mhlinder/miEMC-NetGSA-BRAF)
